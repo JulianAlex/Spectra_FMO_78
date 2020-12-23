@@ -3,7 +3,7 @@ Calculate linear Spectra of FMO (7 and 8 pigments)
 
 Julian Adolphs 
 
-Programm zu Berechnung der inhomogenen linearen Spektren (Absorption, CD, LG) 
+Programm zu Berechnung der inhomogenen linearen Spektren (Absorption OD, circular Dichroism CD, linear Dichroism LD) 
 von FMO (mit 7 und 8 Pigmenten in vorgegebenen Mischungsverhaeltnis) 
 in dynamischer Theorie mit einer MonteCarlo-Methode.
 
